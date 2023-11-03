@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alaaMariry
 - 👀 I’m interested in coding, sports, fashion .
 - 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 whatsapp : +963994594354
 <!---
